@@ -1,0 +1,1 @@
+This repository demonstrates an example of an unhandled exception within a Scala Future and its proper solution using a more robust error-handling mechanism. The `bug.scala` file shows the initial code with the flaw, while `bugSolution.scala` illustrates the improved version.
